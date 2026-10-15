@@ -1,0 +1,8 @@
+target/
+*.class
+nbproject/private/
+nbactions.xml
+.idea/
+*.iml
+.DS_Store
+__MACOSX/
